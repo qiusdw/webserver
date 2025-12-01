@@ -8,7 +8,7 @@
                     获取文件的长度：stat lseek
             - prot : 对申请的内存映射区的操作权限
                 -PROT_EXEC ：可执行的权限
-                -PROT_READ ：读权限
+                -PROT_READ ： 读权限
                 -PROT_WRITE ：写权限
                 -PROT_NONE ：没有权限
                 要操作映射内存，必须要有读的权限。
